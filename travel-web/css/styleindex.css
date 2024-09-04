@@ -1,0 +1,49 @@
+.header-flex{
+    display: flex;
+    align-items:  center;
+    flex-wrap: wrap;
+}
+
+.header-flex h3{
+    margin: 0;
+}
+
+.header-flex .form-group{
+    width: 100%;
+}
+
+.navbar{
+    background-color: rgb(26, 180, 180);
+}
+
+.navbar-center{
+    display: flex;
+    justify-content: center;
+}
+
+.navbar-center a{
+    color: white;
+    size: 15px;
+}
+
+.navbar-center .active{
+    background-color: orange;
+    font-weight: bold;
+}
+
+h1{
+    text-align: center;
+    color: rgb(6, 221, 221);
+}
+
+.footer{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(26, 180, 180);
+    align-items: center;
+    justify-content: center;
+    padding: 15px;
+    color: white;
+    width: 100%;
+    margin-top: 15px;
+}

@@ -1,0 +1,92 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logoimg img {
+    margin-left: 112.5px;
+}
+
+.banner1 {
+    width: 100%;
+}
+
+.submit_button {
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    color: red;
+    justify-content: center;
+    display: flex;
+}
+
+.title1 {
+    color: blue;
+    margin-top: 0%;
+}
+
+.laptop {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.laptop_img {
+    margin: 30px;
+    box-shadow: 1px 1px 1px 3px rgba(173, 171, 171, 0.747);
+    height: 357px;
+}
+
+.laptop_info {
+    padding: 10px;
+    margin: 30px;
+    box-shadow: 1px 1px 1px 3px rgba(173, 171, 171, 0.747);
+    height: 337px;
+}
+
+.laptop_info p {
+    border-bottom: 1px solid black;
+}
+
+.access {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.access img {
+    width: 320px;
+    margin: 30px;
+}
+
+.access .bonho {
+    box-shadow: 1px 1px 1px 3px rgba(173, 171, 171, 0.747);
+    display: flex;
+    margin: 30px;
+    width: 100%;
+}
+
+.access .chuot {
+    box-shadow: 1px 1px 1px 3px rgba(173, 171, 171, 0.747);
+    display: flex;
+    margin: 30px;
+    width: 100%;
+}
+
+.footer {
+    background-color: rgb(12, 155, 221);
+    text-align: center;
+    padding: 15px;
+}
+
+.footer p{
+    color: white;
+}
+
+.footer h5{
+    color: white;
+    font-weight: bold;
+}
